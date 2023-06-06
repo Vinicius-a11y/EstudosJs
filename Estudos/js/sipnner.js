@@ -1,9 +1,14 @@
-console.log('Vinicius Bueno');       // Strinh = Texto
-console.log("Vinicius Bueno");
-console.log(`'Vinicius' "Bueno"`);
+// E escrever um comentario longo
+console.log('ola Mundo!'); //Aqui tem outro comentario
+console.log('linha 1');
+// Comentario
 
-console.log(35, 15.85, 'Vinicius Bueno');
+/* 
+*Um bloco de codifo 
+*Linha de comentario.
+*/
 
-console.log('Meu nome é Vincius. Estou aprendendo JavaScript as' , 10, 'da manha.');
-
-console.log('Este é uma exercicios de JavaScript pois hoje é dia', 06/06/2023, 'E tenho 21 anos nesse momento');
+console.log('linha 2');
+console.log('linha 3');
+console.log('linha 4');
+// Vai ser ignorado
